@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix device counting method to account for double-digit device IDs (#8502)
